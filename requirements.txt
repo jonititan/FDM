@@ -1,7 +1,7 @@
 folium
 geojson
 geopandas
-matplotlibk
+matplotlib
 numpy
 pandas
 scikit-learn
